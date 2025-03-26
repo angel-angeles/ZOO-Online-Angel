@@ -1,1 +1,2 @@
 cokolwiek
+test automatyzacji (Actions)
